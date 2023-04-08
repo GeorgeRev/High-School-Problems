@@ -1,4 +1,4 @@
-These exercises are taken from class material given by Mr Bairaktaris Nikolaos of cramming school ENA, to support high school student for their final year exams.
+These exercises are taken from class material given by Mr Bairaktaris Nikolaos of cramming school ENA, to support high school students for their final year exams.
 
 
 1. Circle - This is a really simple program to calculate the area, circumference and diameter of a circle. The only thing asked by the student is the radius.
